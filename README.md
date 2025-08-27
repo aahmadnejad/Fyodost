@@ -1,15 +1,14 @@
-# FYODOST - Layer 2 Attack Research Toolkit
+# FYODOST - Your all-in-one Layer 2 offensive arsenal, complete control over the Layer 2 battlefield.
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![Scapy](https://img.shields.io/badge/Scapy-Network%20Packet%20Manipulation-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
-![Research](https://img.shields.io/badge/Purpose-Offensive%20Redteam-red)
+![offensive](https://img.shields.io/badge/Purpose-Offensive%20Redteam-red)
 
 
 
 ![Fyodost Icon](./Fyodost_icon.png)
-Fyodost — Your all-in-one Layer 2 offensive arsenal, complete control over the Layer 2 battlefield.
 
 ## 🚀 Features
 
@@ -28,13 +27,6 @@ Fyodost — Your all-in-one Layer 2 offensive arsenal, complete control over the
 - **Switch Spoofing** - Network device impersonation
 - **Data Link Impersonation** - Comprehensive CAM poisoning attacks
 
-### 🛠️ Technical Features
-- **Unified CLI Interface** - Consistent command structure for all attacks
-- **PCAP Capture** - Built-in packet capture for traffic analysis
-- **Network Scanning** - Automatic device discovery and targeting
-- **Vendor-specific MACs** - Realistic Cisco device impersonation
-- **Research-grade** - Designed for IDS dataset generation
-- **Modular Architecture** - Easy to extend with new attack modules
 
 ## 📦 Installation
 
@@ -142,18 +134,10 @@ fyodost/
 └── README.md               # This file
 ```
 
-## 🔬 Research Applications
-
-FYODOST is specifically designed for:
-- **IDS Dataset Generation** - Create comprehensive datasets for training intrusion detection systems
-- **Network Security Research** - Study Layer 2 attack vectors and defense mechanisms
-- **Academic Projects** - MSc/PhD research in network security
-- **Penetration Testing Training** - Educational purposes in controlled environments
-- **Network Protocol Analysis** - Deep analysis of Layer 2 protocol vulnerabilities
 
 ## ⚠️ Disclaimer
 
-**IMPORTANT: This tool is for academic and research purposes only.**
+**IMPORTANT: This tool is for academic and ethical offensive purposes only.**
 
 - 🚫 **Do not use on networks without explicit permission**
 - 🚫 **Not for malicious or unauthorized activities**
@@ -162,7 +146,7 @@ FYODOST is specifically designed for:
 
 ```python
 # Ethical use reminder
-print("Use responsibly: For research and education only!")
+print("Use responsibly: For ethical offensive and education only!")
 ```
 
 ## 📊 Output Examples
@@ -229,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Scapy** team for the excellent packet manipulation library
 - **Network security researchers** worldwide
-- **Academic community** for supporting open security research
+- **Academic community** for supporting open security offensive
 - **Contributors** who help improve this toolkit
 
 ## 📚 References
@@ -250,11 +234,75 @@ Found a bug? Please open an issue on our [GitHub Issues](https://github.com/your
 - [ ] Wireless (802.11) attack modules
 - [ ] Web-based management interface
 - [ ] Automated attack scenarios
-- [ ] Enhanced PCAP analysis tools
-- [ ] Machine learning integration for attack detection
 
 ---
 
-**FYODOST** - Empowering network security research through comprehensive Layer 2 attack.
+**FYODOST** - Empowering network security offensive through comprehensive Layer 2 attack.
 
 *Remember: With great power comes great responsibility. Use this tool ethically and legally.*
+
+## 🤝 Contributing
+
+We welcome contributions from the community! FYODOST is an open-source offensive tool, and we appreciate any help in making it better.
+
+### How You Can Contribute
+
+**🔧 Development:**
+- Add new Layer 2 attack modules
+- Improve existing attack implementations
+- Enhance network scanning capabilities
+- Add IPv6 support for all attacks
+- Develop wireless (802.11) attack modules
+
+**📚 Documentation:**
+- Improve documentation and examples
+- Create tutorials and usage guides
+- Translate documentation to other languages
+
+**🐛 Testing & Bugs:**
+- Report bugs and issues
+- Test attack modules in different environments
+- Improve error handling and validation
+- Add unit tests and integration tests
+
+**💡 Ideas:**
+- Suggest new attack techniques to implement
+- Propose improvements to the architecture
+- Help with academic validation
+
+### Getting Started
+
+1. **Fork** the repository
+2. **Clone** your forked repository
+3. **Create** a new branch for your feature
+4. **Make** your changes and test thoroughly
+5. **Submit** a pull request with a clear description
+
+### Development Guidelines
+
+- Follow Python PEP 8 style guidelines
+- Add docstrings to all functions and classes
+- Include comments for complex logic
+- Test your code in a controlled lab environment
+- Ensure backward compatibility when possible
+
+### Ethics
+
+Please remember that this tool is for **academic and ethical hacking purposes only**. All contributions should:
+- Include proper disclaimers
+- Be designed for controlled lab environments
+- Not facilitate malicious activities
+- Promote ethical security 
+
+### Need Help?
+
+- Check the existing issues for ideas
+- Join our discussions on offensive topics
+- Ask questions in the issue tracker
+- Reach out for guidance on implementation
+
+Your contributions help advance network security ethical offensive and education! 🚀
+
+---
+
+*Together, we can build better tools for understanding and defending against Layer 2 attacks.*
