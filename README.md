@@ -7,6 +7,8 @@
 ![Research](https://img.shields.io/badge/Purpose-Offensive%20Redteam-red)
 
 
+
+![Fyodost Icon](./Fyodost_icon.png)
 Fyodost — Your all-in-one Layer 2 offensive arsenal, complete control over the Layer 2 battlefield.
 
 ## 🚀 Features
