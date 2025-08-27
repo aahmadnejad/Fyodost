@@ -4,34 +4,8 @@
 ![Scapy](https://img.shields.io/badge/Scapy-Network%20Packet%20Manipulation-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
-![Research](https://img.shields.io/badge/Purpose-Research%20Only-red)
+![Research](https://img.shields.io/badge/Purpose-Offensive%20Redteam-red)
 
-███████╗██╗   ██╗ ██████╗ ██████╗  ██████╗ ███████╗████████╗
-██╔════╝╚██╗ ██╔╝██╔═══██╗██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝
-█████╗   ╚████╔╝ ██║   ██║██║  ██║██║   ██║███████╗   ██║   
-██╔══╝    ╚██╔╝  ██║   ██║██║  ██║██║   ██║╚════██║   ██║   
-██║        ██║   ╚██████╔╝██████╔╝╚██████╔╝███████║   ██║   
-╚═╝        ╚═╝    ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝   
-
-     _____                                _______
-   ,/_    ``-._                          /       \
-  ,|:          `'-..__               ___|         |_
- ,|:_                 '''''-----''''`_::~-.......-'~\
-,|:_                                 _:    . ' .    :
-|:_                                  _:  .   '   .  |
-|:_                                  _:  '   .   '  |
-|:_                                  _:    ' . '    :
-|:_                    __,,...---...,,:_,.-'''''-.,_/
-|:_              _,.-``                 |         |
-|:_           ,-`                       |         |
-|:_         ,`                          |         |
-`|:_      ,'                            |         |
- |:_     /                              |         |
- `|:_   /                               |         |
-  `|:_ :                                |         |
-    \: |                                |         |
-     \:|                                |         |
-      ~
 
 Fyodost — Your all-in-one Layer 2 offensive arsenal, complete control over the Layer 2 battlefield.
 
@@ -71,7 +45,7 @@ Fyodost — Your all-in-one Layer 2 offensive arsenal, complete control over the
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fyodost.git
+git clone https://github.com/aahmadnejad/fyodost.git
 cd fyodost
 
 # Install dependencies
@@ -230,7 +204,7 @@ We welcome contributions to FYODOST! Please see our [Contributing Guidelines](CO
 ### Development Setup
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/fyodost.git
+git clone https://github.com/aahmadejad/fyodost.git
 cd fyodost
 
 # Create virtual environment
@@ -279,6 +253,6 @@ Found a bug? Please open an issue on our [GitHub Issues](https://github.com/your
 
 ---
 
-**FYODOST** - Empowering network security research through comprehensive Layer 2 attack simulation.
+**FYODOST** - Empowering network security research through comprehensive Layer 2 attack.
 
 *Remember: With great power comes great responsibility. Use this tool ethically and legally.*
